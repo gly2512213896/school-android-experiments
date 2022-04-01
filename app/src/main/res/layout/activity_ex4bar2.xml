@@ -4,12 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Ex4.Ex4bar1.MessageActivity">
+    tools:context=".Ex4.Ex4bar2.Ex4bar2Activity">
 
-    <TextView
+    <Button
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="我是一条新信息"
+        android:id="@+id/btn_showHorProgress"
+        android:layout_height="wrap_content"
+        android:text="show customDialog"
+        android:textAllCaps="false"
         android:textSize="30sp"
-        ></TextView>
+        ></Button>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
