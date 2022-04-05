@@ -6,11 +6,29 @@
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable-v24/bg_corners.xml" value="0.119" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable-v24/bg_dialog.xml" value="0.1875" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable-v24/bg_positive.xml" value="0.1875" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable-v24/fl_rb_textcolor.xml" value="0.1205" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/fl_rb_textcolor.xml" value="0.1205" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1205" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/selector_bg_btnfrag.xml" value="0.2095" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/selector_drawabletint_person.xml" value="0.1205" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/selector_drawabletop_animal.xml" value="0.1205" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/selector_drawabletop_person.xml" value="0.1205" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/selector_drawabletop_plant.xml" value="0.1205" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/selector_textcolor_animal.xml" value="0.1205" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/selector_textcolor_person.xml" value="0.1205" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/selector_textcolor_plant.xml" value="0.122" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/shape_bg_btnfrag.xml" value="0.156" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/textcolor_selector_person.xml" value="0.1205" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_ex4bar1.xml" value="0.23703703703703705" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_ex4bar2.xml" value="0.24947916666666667" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_fragment.xml" value="0.2246376811594203" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_main.xml" value="0.2312820512820513" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_message.xml" value="0.24947916666666667" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/customdialog.xml" value="0.23703703703703705" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/fragment_animal.xml" value="0.16944444444444445" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/fragment_person.xml" value="0.264" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/fragment_phone.xml" value="0.24947916666666667" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/fragment_plant.xml" value="0.16944444444444445" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/layout_customdia.xml" value="0.24947916666666667" />
       </map>
     </option>

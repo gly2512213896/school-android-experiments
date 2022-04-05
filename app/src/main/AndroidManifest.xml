@@ -18,12 +18,10 @@
         <activity
             android:name=".Ex4.Ex4bar1.MessageActivity"
             android:exported="false" />
+
         <activity
-            android:name=".Ex4.Ex4bar2.Ex4bar2Activity"
-            android:exported="false" />
-        <activity
-            android:name=".Ex4.Ex4bar1.Ex4bar1Activity"
-            android:exported="false" />
+            android:name=".Ex5.Ex5Activity"
+            android:exported="false"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">

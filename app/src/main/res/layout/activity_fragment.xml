@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Ex5.Ex5Activity">
+
+
+    <LinearLayout
+        android:id="@+id/fl_container"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#364147" />
+
+    <RadioGroup
+        android:id="@+id/fl_rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:checkedButton="@id/fl_rb_person"
+        >
+
+        <RadioButton
+            android:id="@+id/fl_rb_person"
+            style="@style/flRadioButton"
+            android:drawableTop="@drawable/selector_drawabletop_person"
+            android:textColor="@drawable/selector_textcolor_person"
+            android:paddingVertical="5dp"
+            android:text="人物" />
+        <RadioButton
+            android:id="@+id/fl_rb_animal"
+            style="@style/flRadioButton"
+            android:drawableTop="@drawable/selector_drawabletop_animal"
+            android:textColor="@drawable/selector_textcolor_animal"
+            android:paddingVertical="5dp"
+            android:text="动物" />
+        <RadioButton
+            android:id="@+id/fl_rb_plant"
+            style="@style/flRadioButton"
+            android:drawableTop="@drawable/selector_drawabletop_plant"
+            android:textColor="@drawable/selector_textcolor_plant"
+            android:paddingVertical="5dp"
+            android:text="植物" />
+    </RadioGroup>
+
+
+</LinearLayout>
