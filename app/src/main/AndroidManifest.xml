@@ -10,6 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SchoolExperiments">
         <activity
+            android:theme="@style/AppTheme.NoActionBar"
+            android:name=".Ex6.Ex6SubActivity"
+            android:exported="false" />
+        <activity
+            android:theme="@style/AppTheme.NoActionBar"
+            android:name=".Ex6.Ex6Activity"
+            android:exported="false" />
+        <activity
             android:name=".Ex4.Ex4bar2.Ex4bar2Activity"
             android:exported="false" />
         <activity
@@ -18,10 +26,9 @@
         <activity
             android:name=".Ex4.Ex4bar1.MessageActivity"
             android:exported="false" />
-
         <activity
             android:name=".Ex5.Ex5Activity"
-            android:exported="false"/>
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
