@@ -46,4 +46,24 @@
         app:layout_constraintEnd_toEndOf="@id/btn_ex5"
         app:layout_constraintStart_toStartOf="@id/btn_ex5"
         app:layout_constraintTop_toBottomOf="@id/btn_ex5"></Button>
+    <Button
+        android:id="@+id/btn_ex7"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="ex7"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="@id/btn_ex6"
+        app:layout_constraintStart_toStartOf="@id/btn_ex6"
+        app:layout_constraintTop_toBottomOf="@id/btn_ex6"></Button>
+    <Button
+        android:id="@+id/btn_ex8"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="ex8"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="@id/btn_ex7"
+        app:layout_constraintStart_toStartOf="@id/btn_ex7"
+        app:layout_constraintTop_toBottomOf="@id/btn_ex7"></Button>
 </androidx.constraintlayout.widget.ConstraintLayout>

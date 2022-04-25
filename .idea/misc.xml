@@ -7,9 +7,13 @@
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable-v24/bg_dialog.xml" value="0.1875" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable-v24/bg_positive.xml" value="0.1875" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable-v24/fl_rb_textcolor.xml" value="0.1205" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/bgedittext.xml" value="0.1425" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/fl_rb_textcolor.xml" value="0.1205" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1205" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/listselector.xml" value="0.156" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/sel_rainyday_ic.xml" value="0.156" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/sel_sunday_ic.xml" value="0.156" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/sel_windyday_ic.xml" value="0.156" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/selector_bg_btnfrag.xml" value="0.2095" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/selector_drawabletint_person.xml" value="0.1205" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/drawable/selector_drawabletop_animal.xml" value="0.1205" />
@@ -25,18 +29,25 @@
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_ex4bar2.xml" value="0.24947916666666667" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_ex6.xml" value="0.264" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_ex6_sub.xml" value="0.22777777777777777" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_ex7.xml" value="0.264" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_ex8.xml" value="0.264" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_fragment.xml" value="0.2246376811594203" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_main.xml" value="0.2312820512820513" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_message.xml" value="0.24947916666666667" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_show_message.xml" value="0.23796296296296296" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_tab_layout.xml" value="0.24947916666666667" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/activity_toolbar.xml" value="0.24947916666666667" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/citygriditem.xml" value="0.22777777777777777" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/citylistitem.xml" value="0.24947916666666667" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/customdialog.xml" value="0.23703703703703705" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/fragment_animal.xml" value="0.16944444444444445" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/fragment_message2.xml" value="0.24947916666666667" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/fragment_person.xml" value="0.264" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/fragment_phone.xml" value="0.24947916666666667" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/fragment_plant.xml" value="0.16944444444444445" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/fragment_weather.xml" value="0.23796296296296296" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/layout_customdia.xml" value="0.24947916666666667" />
+        <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/tab_item.xml" value="0.24947916666666667" />
         <entry key="..\:/Programme/Projects/android_projects/SchoolExperiments/app/src/main/res/layout/toolbar_options_menu.xml" value="0.23796296296296296" />
       </map>
     </option>

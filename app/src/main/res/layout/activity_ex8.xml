@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".Ex8.Ex8Activity">
+    <EditText
+        android:id="@+id/et_msg"
+        android:padding="10sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:drawablePadding="5dp"
+        android:background="@drawable/bgedittext"
+        android:hint="请输入内容"
+        android:inputType="text"
+        android:paddingStart="10dp"
+        android:textSize="20sp" />
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/et_msg"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@+id/et_msg"
+        android:layout_marginStart="10dp"
+        android:paddingVertical="10dp"
+        android:text="提交"
+        android:textSize="26sp"></Button>
+
+</RelativeLayout>

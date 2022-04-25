@@ -10,13 +10,22 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SchoolExperiments">
         <activity
-            android:theme="@style/AppTheme.NoActionBar"
-            android:name=".Ex6.Ex6SubActivity"
+            android:name=".Ex8.ShowMessageActivity"
             android:exported="false" />
         <activity
-            android:theme="@style/AppTheme.NoActionBar"
-            android:name=".Ex6.Ex6Activity"
+            android:name=".Ex8.Ex8Activity"
             android:exported="false" />
+        <activity
+            android:name=".Ex7.Ex7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Ex6.Ex6SubActivity"
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Ex6.Ex6Activity"
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Ex4.Ex4bar2.Ex4bar2Activity"
             android:exported="false" />
